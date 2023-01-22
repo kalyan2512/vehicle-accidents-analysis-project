@@ -69,7 +69,7 @@ Copy the project code and files to local Spark installation directory, then Open
 vehicle_crash_analysis_app\src\framework\main.py
 ```
 
-Assuming that the `$SPARK_HOME` environment variable points to your local Spark installation folder, then the ETL job can be run from the project's root directory using the following command from the terminal,
+Assuming that the `$SPARK_HOME` environment variable points to your local Spark installation folder, then this job can be run from the project's root directory using the following command from the terminal,
 
 ```bash
 $SPARK_HOME/bin/spark-submit \
