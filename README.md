@@ -41,20 +41,20 @@ config.json file content
 ```
 {
     	"env": "dev",
-	"in_path_charges_use": "C:\\Users\\talkt\\Downloads\\Data\\Data\\Charges_use.csv",
-	"in_path_damages_use" : "C:\\Users\\talkt\\Downloads\\Data\\Data\\Damages_use.csv",
-	"in_path_endorse_use":"C:\\Users\\talkt\\Downloads\\Data\\Data\\Endorse_use.csv",
-	"in_path_primary_person_use":"C:\\Users\\talkt\\Downloads\\Data\\Data\\Primary_Person_use.csv",
-	"in_path_restrict_use": "C:\\Users\\talkt\\Downloads\\Data\\Data\\Restrict_use.csv",
-	"in_path_units_use": "C:\\Users\\talkt\\Downloads\\Data\\Data\\Units_use.csv",
-	"out_path_analysis_1": "C:\\Users\\talkt\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_1\\",
-	"out_path_analysis_2" : "C:\\Users\\talkt\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_2\\",
-	"out_path_analysis_3":"C:\\Users\\talkt\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_3\\",
-	"out_path_analysis_4":"C:\\Users\\talkt\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_4\\",
-	"out_path_analysis_5": "C:\\Users\\talkt\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_5\\",
-	"out_path_analysis_6": "C:\\Users\\talkt\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_6\\",
-	"out_path_analysis_7": "C:\\Users\\talkt\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_7\\",
-	"out_path_analysis_8": "C:\\Users\\talkt\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_8\\"
+	"in_path_charges_use": "C:\\Users\\sample_user\\Downloads\\Data\\Data\\Charges_use.csv",
+	"in_path_damages_use" : "C:\\Users\\sample_user\\Downloads\\Data\\Data\\Damages_use.csv",
+	"in_path_endorse_use":"C:\\Users\\sample_user\\Downloads\\Data\\Data\\Endorse_use.csv",
+	"in_path_primary_person_use":"C:\\sample_user\\talkt\\Downloads\\Data\\Data\\Primary_Person_use.csv",
+	"in_path_restrict_use": "C:\\Users\\sample_user\\Downloads\\Data\\Data\\Restrict_use.csv",
+	"in_path_units_use": "C:\\Users\\sample_user\\Downloads\\Data\\Data\\Units_use.csv",
+	"out_path_analysis_1": "C:\\Users\\sample_user\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_1\\",
+	"out_path_analysis_2" : "C:\\Users\\sample_user\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_2\\",
+	"out_path_analysis_3":"C:\\Users\\sample_user\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_3\\",
+	"out_path_analysis_4":"C:\\Users\\sample_user\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_4\\",
+	"out_path_analysis_5": "C:\\Users\\sample_user\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_5\\",
+	"out_path_analysis_6": "C:\\Users\\sample_user\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_6\\",
+	"out_path_analysis_7": "C:\\Users\\sample_user\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_7\\",
+	"out_path_analysis_8": "C:\\Users\\sample_user\\PycharmProjects\\vehicle_crash_analysis_app\\src\\resources\\analysis_result\\analysis_8\\"
 }
 ```
 
