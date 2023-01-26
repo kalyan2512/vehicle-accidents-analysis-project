@@ -1,5 +1,7 @@
 # Vehicle Accidents Analysis Project
 
+This project has been built by `Kalyan Singh`.
+
 ## Project Structure
 
 The basic project structure is as follows:
