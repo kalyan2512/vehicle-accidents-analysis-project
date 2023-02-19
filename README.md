@@ -79,3 +79,8 @@ $SPARK_HOME/bin/spark-submit \
 --files src\resources\config_file\config.json \
 src\framework\main.py
 ```
+
+Spark Submit documentation,
+```bash
+https://spark.apache.org/docs/latest/submitting-applications.html
+```
